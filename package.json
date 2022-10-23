@@ -1,0 +1,29 @@
+{
+  "name": "expose-ts-gc",
+  "version": "1.0.0",
+  "description": "Expose GC at runtime without access to command node flags in command line for TS apps",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "expose",
+    "gc",
+    "runtime",
+    "expose-gc",
+    "expose-ts-gc",
+    "typescript",
+    "ts"
+  ],
+  "author": "Vincent Girard vinccool96@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinccool96/expose-ts-gc.git"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.3",
+    "typescript": "^4.8.4"
+  }
+}
