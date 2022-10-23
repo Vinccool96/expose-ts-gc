@@ -17,7 +17,7 @@
     "typescript",
     "ts"
   ],
-  "author": "Vincent Girard vinccool96@gmail.com",
+  "author": "Vincent Girard <vinccool96@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
